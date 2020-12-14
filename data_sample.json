@@ -1,0 +1,75 @@
+{
+    "nome": "<Seu nome>",
+    "nome_artistico": "<Nome Artistico>",
+    "area":"<Sua area>",
+    "pagina_1":"Portfólio",
+    "pagina_2":"Sobre mim & Contato",
+    "redes_sociais": {
+        "instagram": {
+            "icon": "mdi-instagram",
+            "url": "https://www.instagram.com/_ckatiane",
+            "user": "@_ckatiane"
+        },
+        "twitter": {
+            "icon": "mdi-twitter",
+            "url": "https://twitter.com/cinthiakatiane",
+            "user": "cinthiakatiane"
+        },
+        "medium": {
+            "icon": "mdi-medium",
+            "url": "https://medium.com/@cinthia.cka",
+            "user": "cinthia.cka"
+        },
+        "linkedin": {
+            "icon": "mdi-linkedin-box",
+            "url": "https://www.linkedin.com/in/cinthiakatiane/",
+            "user": "cinthiakatiane"
+        },
+        "email": {
+            "icon": "mdi-email",
+            "url": "mailto:cinthia.cka@gmail.com",
+            "user": "cinthia.cka@gmail.com"
+        },
+        "flickr": {
+            "icon": "mdi-flickr",
+            "url": "https://www.flickr.com/photos/190705422@N04/",
+            "user": "cinthia.cka"
+        }
+    },
+    "sobre_mim": {
+        "titulo": "Sobre mim",
+        "texto": "<Texto breve falando sobre quem é você e quais são as suas intenções com a arte (trabalho, areas e materiais)>"
+    },
+    "formacao": {
+        "titulo": "Formação",
+        "topicos": {
+            "0": "Curso 1",
+            "1": "Curso 2",
+            "2": "Curso 3",
+            "3": "Curso 4"
+        }
+    },
+    "habilidades": {
+        "titulo": "Habilidades",
+        "topicos": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4"
+        }    
+    },
+    "experiencia": {
+        "titulo": "Experiência",
+        "topicos": {
+            "0": "Empresa",
+            "1": "Estágio",
+            "2": "Exposição"
+        }
+    },
+    "tags":{
+        "0": {"titulo":"Tudo", "tag":"arte"},
+        "1": {"titulo": "Pintura", "tag": "pintura"},
+        "2": {"titulo": "Arte Digital", "tag":"digital"},
+        "3": {"titulo" :"Desenho", "tag":"desenho"}
+    }
+}
